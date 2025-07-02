@@ -104,7 +104,7 @@ public class HealthSystem : MonoBehaviour
 
         // --- NOVA LÓGICA DE COMUNICAÇÃO ---
         // Verificamos se o objeto que morreu tem a tag "Inimigo".
-        if (gameObject.CompareTag("Inimigo"))
+        if (gameObject.CompareTag("Enemy"))
         {
             // Se for, avisamos ao GameManager que um inimigo foi eliminado.
             GameManager.instance.OnEnemyKilled();
