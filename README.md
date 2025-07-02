@@ -78,3 +78,5 @@ Siga estes passos para configurar o projeto em sua máquina local.
 4.  **Explore a Cena:**
     *   Na janela `Project`, navegue até a pasta `Scenes` e abra a cena principal.
     *   Pressione "Play" e explore todas as funcionalidades implementadas!
+
+    ###SENAI
